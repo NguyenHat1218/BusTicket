@@ -1,0 +1,16 @@
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\bin\Debug\BVXE.exe.config
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\bin\Debug\BVXE.exe
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\bin\Debug\BVXE.pdb
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.csproj.AssemblyReference.cache
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.csproj.SuggestedBindingRedirects.cache
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.Properties.Resources.resources
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.csproj.GenerateResource.cache
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.csproj.CoreCompileInputs.cache
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.exe
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.pdb
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\PetShop.Form_Main_QTV.resources
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\PetShop.Login_form.resources
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\PetShop.QLNV.resources
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\PetShop.Search_form.resources
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.FormDatVe.resources
+D:\HK3_2\LapTrinhUngDung\BT\BVXE\BVXE\obj\Debug\BVXE.TaoChuyenXecs.resources
